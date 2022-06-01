@@ -1,0 +1,8 @@
+C:\Users\brayt\source\repos\BudgetApp\bin\Debug\BudgetApp.exe.config
+C:\Users\brayt\source\repos\BudgetApp\bin\Debug\BudgetApp.exe
+C:\Users\brayt\source\repos\BudgetApp\bin\Debug\BudgetApp.pdb
+C:\Users\brayt\source\repos\BudgetApp\obj\Debug\BudgetApp.csproj.AssemblyReference.cache
+C:\Users\brayt\source\repos\BudgetApp\obj\Debug\BudgetApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\brayt\source\repos\BudgetApp\obj\Debug\BudgetApp.csproj.CoreCompileInputs.cache
+C:\Users\brayt\source\repos\BudgetApp\obj\Debug\BudgetApp.exe
+C:\Users\brayt\source\repos\BudgetApp\obj\Debug\BudgetApp.pdb
